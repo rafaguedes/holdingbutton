@@ -1,0 +1,10 @@
+<resources>
+    <declare-styleable name="HoldingButton">
+        <attr name="android:text"/>
+        <attr name="android:textColor"/>
+        <attr name="android:textSize"/>
+        <attr name="backColor" format="color" />
+        <attr name="overColor" format="color" />
+        <attr name="timer" format="integer"/>
+    </declare-styleable>
+</resources>

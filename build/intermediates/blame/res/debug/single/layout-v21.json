@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/rafael/Desktop/Desktop/Geolocation/WingoCaller/holdingbutton/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/rafael/.android/build-cache/93fd34cc31c00b74e3cbd8bf1a963992888e5d12/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/bradadmin/Desktop/Desktop/Geolocation/WingoCaller/holdingbutton/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/bradadmin/.android/build-cache/ce7dc10fd2ce24ac4d45d31fbd165bae3718e2a6/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/bradadmin/Desktop/Desktop/Geolocation/WingoCaller/holdingbutton/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/bradadmin/.android/build-cache/ce7dc10fd2ce24ac4d45d31fbd165bae3718e2a6/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/rafael/Desktop/Desktop/Geolocation/WingoCaller/holdingbutton/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/rafael/.android/build-cache/93fd34cc31c00b74e3cbd8bf1a963992888e5d12/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/rafael/Desktop/Desktop/Geolocation/WingoCaller/holdingbutton/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/rafael/.android/build-cache/93fd34cc31c00b74e3cbd8bf1a963992888e5d12/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/bradadmin/Desktop/Desktop/Geolocation/WingoCaller/holdingbutton/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/bradadmin/.android/build-cache/ce7dc10fd2ce24ac4d45d31fbd165bae3718e2a6/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/rafael/Desktop/Desktop/Geolocation/WingoCaller/holdingbutton/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/rafael/.android/build-cache/93fd34cc31c00b74e3cbd8bf1a963992888e5d12/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/bradadmin/Desktop/Desktop/Geolocation/WingoCaller/holdingbutton/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/bradadmin/.android/build-cache/ce7dc10fd2ce24ac4d45d31fbd165bae3718e2a6/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

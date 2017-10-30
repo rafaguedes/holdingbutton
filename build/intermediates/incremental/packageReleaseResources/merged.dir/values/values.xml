@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HoldingButton"><attr name="android:text"/><attr name="android:textColor"/><attr name="android:textSize"/><attr format="color" name="backColor"/><attr format="color" name="overColor"/><attr format="integer" name="timer"/></declare-styleable>
+    <string name="app_name">br.com.yourapp.holdingbutton.HoldingButton</string>
+</resources>
