@@ -1,6 +1,9 @@
 # Holding Button
 Holding button component to be used instead a confirm dialog
 
+I'm in process to publish this library with Maven Repository.
+When it's not finished, i'm making this available like local library.
+
 ## Sample Example
 <br />
 
