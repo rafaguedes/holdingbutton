@@ -2,8 +2,9 @@
 Holding button component to be used instead a confirm dialog with callback when this is finished!
 
 ## How to use
-</br>
+
 Add repositories
+
 ```gradle
 allprojects {
     repositories {
@@ -12,6 +13,7 @@ allprojects {
 }
 
 Add to dependencies
+
 ```gradle
 dependencies {
     compile 'com.github.rafaguedes:holdingbutton:0.0.1'
