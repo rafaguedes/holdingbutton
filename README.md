@@ -11,6 +11,7 @@ allprojects {
         maven { url "https://jitpack.io" }
     }
 }
+```
 
 Add to dependencies
 
@@ -18,6 +19,7 @@ Add to dependencies
 dependencies {
     compile 'com.github.rafaguedes:holdingbutton:0.0.1'
 }
+```
 
 ## Sample Example
 <br />
