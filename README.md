@@ -1,8 +1,21 @@
 # Holding Button
 Holding button component to be used instead a confirm dialog with callback when this is finished!
 
-I'm in process to publish this library with Maven Repository.<br />
-When it's not finished, i'm making this available like local library.
+## How to use
+</br>
+Add repositories
+```gradle
+allprojects {
+    repositories {
+        maven { url "https://jitpack.io" }
+    }
+}
+
+Add to dependencies
+```gradle
+dependencies {
+    compile 'com.github.rafaguedes:holdingbutton:0.0.1'
+}
 
 ## Sample Example
 <br />
@@ -14,7 +27,7 @@ Use this library when you need to create a confirm button with time.<br />
 You can configure how much time you need to confirm the action.
 
 ## Basic Configuration
-```
+```xml
 <br.com.yourapp.holdingbutton.HoldingButton
     android:id="@+id/holdingButton"
     android:layout_width="match_parent"
@@ -29,7 +42,7 @@ You can configure how much time you need to confirm the action.
 ```
 
 ## Basic Usage
-```
+```java
 HoldingButton holdingButton = findViewById(R.id.holdingButton);
 holdingButton.setOnFinishEventListener(() -> {
     Toast.makeText(MainActivity.this, "Finished", Toast.LENGTH_LONG).show();
